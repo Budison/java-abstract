@@ -1,3 +1,2 @@
-# java_abstract
+# Abstract Classes and Methods
 
-This project was created on 2022-06-03 from a template.
